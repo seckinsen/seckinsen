@@ -21,7 +21,15 @@ Highly motivated and diligent Software Engineer who likes to seek out learning o
 <a href="https://twitter.com/secksen" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="secksen"/></a>
 <a href="mailto:sckn.sen@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sckn.sen@gmail.com"/></a>
 
+<!--
 ![Snake animation](https://raw.githubusercontent.com/seckinsen/seckinsen/output/github-contribution-grid-snake.svg)
+-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seckinsen/seckinsen/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seckinsen/seckinsen/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/seckinsen/seckinsen/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!--
 **seckinsen/seckinsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
